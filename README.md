@@ -1,3 +1,3 @@
-# repo2
+# bioInf repo
 
-HI THIS IS SHREE!!!! - Favian Sun
+This is a bioinformatics repo.

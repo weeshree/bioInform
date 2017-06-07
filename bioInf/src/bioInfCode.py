@@ -142,5 +142,4 @@ def jigsaw():
 # print(jigsaw())
 
 
-"FAVIAN SUN SUN SUN SUN SUN"
 

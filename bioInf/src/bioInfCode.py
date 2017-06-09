@@ -8,7 +8,7 @@ import re
 from builtins import str
 
 spacing = 100
-
+"BLAH BLAH BLAH"
 
 def matches(char1, char2):
     char1 = char1.replace('A', 't').replace('C', 'g').replace('G', 'c').replace('T', 'a').upper()
